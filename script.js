@@ -67,3 +67,5 @@ draw = function() {
     text ("2. Click on mouse to show lightning.", 80, 40);
 
 };
+
+//still need to fix thunder for it to show up on mousePressed
